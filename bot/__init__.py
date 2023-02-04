@@ -8,9 +8,9 @@ import logging
 from .env import get_env
 from logging.handlers import RotatingFileHandler
 
-API_ID = get_env('API_ID')
-API_HASH = get_env('API_HASH')
-BOT_TOKEN = get_env('BOT_TOKEN')
+API_ID = get_env('5293972')
+API_HASH = get_env('fc7377be14fb556b2fe43945e1910e51')
+BOT_TOKEN = get_env('6036016901:AAHRwWJ75lxFThjVgzqOqNysOWTZq2ISyqk')
 
 
 # Messages
